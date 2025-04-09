@@ -1,7 +1,6 @@
 {
   "name": "nepal_compliance",
   "version": "1.0.0-dev",
-  "description": "ERPNext app to comply with Nepali laws and regulations",
   "scripts": {
     "build": "yarn run esbuild",
     "production": "yarn run esbuild --production",
@@ -12,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Mukesh-HW/nepal-compliance.git"
   },
-  "author": "Mukesh",
+  "author": "Mukesh-HW", 
   "license": "GNU General Public License (v3)",
   "bugs": {
     "url": "https://github.com/Mukesh-HW/nepal-compliance/issues"
